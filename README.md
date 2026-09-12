@@ -65,7 +65,6 @@ src/
 │   ├── Footer.jsx      # Auto-updating dynamic year layout
 │   ├── Header.jsx      # Title branding header navigation
 │   └── Note.jsx        # Individual note display containing delete triggers
-├── App.css          # Main structural custom styling
 ├── App.jsx          # Core parent element orchestration & hooks hub
 ├── index.css        # Global CSS resets
 └── main.jsx         # Mounts React Virtual DOM onto physical index.html
