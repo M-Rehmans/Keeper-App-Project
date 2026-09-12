@@ -1,5 +1,7 @@
 # 📝 Keeper App
 
+👉 **[Live Project Link](https://vercel.app)**
+
 A modern, responsive, and functional note-taking application inspired by Google Keep. This project is built using **ReactJS** and bundled with **Vite**, focusing on clean component architecture, state lifting, and local data persistence.
 
 The core HTML structure and CSS styling templates are credited to the popular web development instructor **Angela Yu**, while the full interactive JavaScript logic, React lifecycle, hooks, and dynamic data syncing have been manually engineered.
