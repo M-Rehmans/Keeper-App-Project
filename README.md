@@ -1,6 +1,6 @@
 # 📝 Keeper App
 
-👉 **[Live Project Link](https://vercel.app)**
+👉 **[Live Project Link](https://keeper-by-rehman.vercel.app)**
 
 A modern, responsive, and functional note-taking application inspired by Google Keep. This project is built using **ReactJS** and bundled with **Vite**, focusing on clean component architecture, state lifting, and local data persistence.
 
